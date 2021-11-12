@@ -9,8 +9,6 @@ Use optical absorbance spectra for urea in solvent (water, saline, fresh dialysa
 2. Observe various multivariate analysis and classifier algorithms on their accuracy of prediction.
 
 ### Datasets
-1. absorbances_dataset.csv - this is 
-
 | Filename   |      Contents      |
 |:----------:|:-------------:|
 | absorbances_dataset.csv | Spectra taken UV-Vis spec for various urea concentrations in water and fresh dialysate  |
