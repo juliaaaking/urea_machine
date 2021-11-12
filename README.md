@@ -11,6 +11,6 @@ Use optical absorbance spectra for urea in solvent (water, saline, fresh dialysa
 ### Datasets
 | Filename   |      Contents      |
 |:----------:|:-------------:|
-| absorbances_dataset.csv | Spectra taken UV-Vis spec for various urea concentrations in water and fresh dialysate  |
+| absorbances_dataset.csv | Spectra taken with UV-Vis spec for various urea concentrations in water and fresh dialysate  |
 | absorbances.txt |    The .txt version of `absorbances_dataset.csv`   |
 | nir_dataset.csv | Spectra taken with Cary5000 for various urea concentrations in saline |
