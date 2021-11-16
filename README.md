@@ -7,6 +7,7 @@ Use optical absorbance spectra for urea in solvent (water, saline, fresh dialysa
 ### Methods
 1. Collect optical absorbance data with UV-Vis spectrophotometer for various urea concentrations in various solvents (water, 0.15M NaCl saline, fresh dialysate)
 2. Observe various multivariate analysis and classifier algorithms on their accuracy of prediction.
+3. Use PCA regression and PLS comparison model from here: https://scikit-learn.org/stable/auto_examples/cross_decomposition/plot_pcr_vs_pls.html
 
 ### Datasets
 | Filename   |      Contents      |
