@@ -17,6 +17,7 @@ Use optical absorbance spectra for urea in solvent (water, saline, fresh dialysa
 | nir_dataset.csv | Spectra taken with Cary5000 for various urea concentrations in saline |
 | uvvis_absorbances_w_replicates.csv | Spectra taken with UV-Vis from 190-500 nm for urea in water with 3 replicates |
 | pour_init.csv | Spectra taken with UV-Vis from 190-800 nm every hour during POUR from 9/14/2021 |
+| urea_saline_uv_nir.csv | Spectra taken with Cary5000 from 190-2500 nm for urea in saline from 11/19/2021 |
 
 ### Results
 1. From data from UV-Vis from 190-500 nm for various urea concentrations in water with 3 replicates, PLS and PCA regression models were fit.  The wavelength range with the highest r-squared values for both regressions was determined.  For this dataset, the r-squared was 0.97 for both regression methods with an optimal wavelength range of 200-215 nm.
