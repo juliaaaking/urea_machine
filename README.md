@@ -14,7 +14,7 @@ Use optical absorbance spectra for urea in solvent (water, saline, fresh dialysa
 |:----------:|:-------------:|
 | urea_saline_uvvis.csv | Absorbance of urea in saline, UV-Vis region measured with UV-Vis spectrophotometer|
 | urea_saline_cary5000.csv | Absorbance of urea in saline, 190-2500 nm measured with Cary5000 |
-| urea_saline_normalized_cary5000.csv | Absorbance of urea in saline, normalized, 190-2500 nm measured with Cary5000 |
+| urea_saline_normalized_cary5000.csv | Absorbance of urea in saline, normalized, 190-2500 nm measured with Cary5000, normalized version of urea_saline_cary5000.csv |
 | pour_saline_uvvis.csv | Absorbance of POUR samples in saline, UV-Vis region measured with UV-Vis spectrophotometer |
   
 ### Results
