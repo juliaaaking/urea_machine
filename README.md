@@ -1,6 +1,5 @@
 # urea_machine
-  
-<span style="color: red;">This README is horribly out-of-date.</span>
+This README is horribly out-of-date.
   
 ![image](https://cdi.washington.edu/wp-content/uploads/2018/05/CDI-color-700.png)
 
